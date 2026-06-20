@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Mahdi 👋
 
-<!--
-**Mahdik-Dev/Mahdik-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering Student
 
-Here are some ideas to get you started:
+WordPress Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently Learning ASP.NET Core
+
+---
+
+## Technologies
+
+- WordPress
+- Elementor
+- WooCommerce
+- JetEngine
+- C#
+- ASP.NET Core
+- SQL Server
+- Git
+
+---
+
+## Current Goals
+
+- Become a Professional .NET Developer
+- Build Real Projects
+- Learn Clean Architecture
+- Improve System Design Skills
+
+---
+
+## Contact
+
+GitHub: Mahdik-Dev
